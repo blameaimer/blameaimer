@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-#### - 🔭 I’m currently working on improving my coding day by day
+#### - 🔭 I’m currently working on improving my Javascript day by day
 #### - 🌱 I’m currently learning THREE.js
-#### - 👯 I’m looking to collaborate on any projects involving React, THREE.js, NodeJS, React-Native, Firebase
+#### - 👯 I’m looking to collaborate on any projects involving React, THREE.js, NodeJS, React-Native, Firebase , Vite , Angular 
 #### - 🤔 I'm looking for Web Developer roles
 #### - 📫 How to reach me: RaymundTech@protonmail.com
 #### - 💬 If you want to find out more about my skills check the projects below 
