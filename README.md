@@ -1,23 +1,18 @@
-### Hi there 👋
+<img src="public/banner-image.png" alt="Banner Image" width=1000 >
 
-#### - 🔭 I’m currently working on improving my Javascript day by day
-#### - 🌱 I’m currently learning THREE.js
-#### - 👯 I’m looking to collaborate on any projects involving React, THREE.js, NodeJS, React-Native, Firebase , Vite , Angular 
-#### - 🤔 I'm looking for Web Developer roles
-#### - 📫 How to reach me: RaymundTech@protonmail.com
-#### - 💬 If you want to find out more about my skills check the projects below 
+### **JS Masterclass Experience** Graduate
+### I create beautiful and responsive user interfaces 
+### Feel free to contact me. 
+### Email: **raymundtech@protonmail.com** 
+### [GitHub](https://github.com/rajmundgyur/) 
+### My Skills 
+![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,next,git,github)
 
-<!--
-**blameaimer/blameaimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect with me:
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/glenmccallum/)
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/rajmundgyur/)
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajmundgyur&show_icons=true&theme=tokyonight)
 
-- 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajmundgyur&theme=tokyonight)
+
