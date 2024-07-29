@@ -1,6 +1,5 @@
 
 
-### **JS Masterclass Experience** Graduate
 ### I create beautiful and responsive user interfaces 
 ### Feel free to contact me. 
 ### Email: **raymundtech@protonmail.com** 
